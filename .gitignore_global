@@ -1,0 +1,39 @@
+# Guga se afana un gitignore de por ahi y lo usa
+
+
+# Files to EXCLUDE rom github - Compiled Source
+
+*.com
+
+
+
+# Packages #
+
+*.7z
+
+*.iso
+
+*.jar
+
+*.rar
+
+*.tar
+
+*.zip
+
+
+
+# Logs & databases #
+
+*.log
+
+
+
+# OS generated files #
+
+.Trashes
+
+Thumbs.db
+
+ehthumbs.db
+
